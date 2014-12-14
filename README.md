@@ -1,4 +1,6 @@
-login-shibboleth
-================
+## なにこれ
+  学内のネットワーク認証めんどくさいから自動化しました．
+  PC起動時に叩くようにすれば認証ページ行かなくてもネット使える．楽しい．
 
-学内のネットワーク認証を自動化するアレ
+## Lisence
+  This software is released under the MIT License, see LICENSE.
